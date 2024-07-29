@@ -11,7 +11,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 21 years old, currently living in Brazil. I understand english reasonably, and have experience with Python, React, JavaScript, HandleBars, Flutter, Web Development and Mobile Development.
+  - 💬 I am 22 years old, currently living in Brazil. I understand english reasonably, and have experience with Python, React, JavaScript, HandleBars, Flutter, Web Development and Mobile Development.
 
   - ⭐ I enjoy reading, books, manga, or comics, listening music and playing games!
 </details>
